@@ -13,4 +13,5 @@ This project analyzes 1M+ records of AI usage data to track revenue, cost, and u
 ## 📈 Key Insights
 - Identified Top 5 revenue-generating countries.
 - Compared GPT-4 vs GPT-3.5 performance.
-- Correlated session duration with message frequency.
+- Correlated session duration with message frequency
+
